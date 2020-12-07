@@ -1,4 +1,8 @@
-baseURL = "https://parkpoom.com/"
+baseurl = "https://cookievirus.github.io"
+CanonifyUrls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "PARKPOOM MANEEYOD"
