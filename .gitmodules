@@ -1,9 +1,0 @@
-[submodule "themes/anankehttps:/github.com/adityatelange/hugo-PaperMod.git"]
-	path = themes/anankehttps:/github.com/adityatelange/hugo-PaperMod.git
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/hugo-PaperMod"]
-	path = themes/hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "cookie/themes/hugo-PaperMod"]
-	path = cookie/themes/hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
