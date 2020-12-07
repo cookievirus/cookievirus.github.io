@@ -1,4 +1,5 @@
 baseURL = "https://cookievirus.github.io/"
+publishdir = "cookievirus.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "PARKPOOM MANEEYOD"
@@ -15,6 +16,8 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = ""
 
+ignoreErrors = ["error-remote-getjson"]
+
 [taxonomies]
 	tag = "tags"
 	category = "categories"
@@ -23,8 +26,6 @@ googleAnalytics = ""
 [params]
 	# Use homepage.md instead of a list of posts
 	homepage = false
-
-	ignoreErrors = ["error-remote-getjson"]
 
 	# Add meta keywords in head part (Site Keywords or Tags of Page)
 	keywords = ["hugo","vitae","theme","static"]
