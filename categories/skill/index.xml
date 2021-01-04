@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>skill on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/categories/skill/</link>
+		<description>Recent content in skill on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/categories/skill/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>GMS2 : Farming RPG I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-farm/</link>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-farm/</guid>
+			<description>
+				
+				Stardew Valley inspired by the Harvest Moon
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Platform Game I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-platform-01/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-platform-01/</guid>
+			<description>
+				
+				ActRaiser and Castlevania
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Action RPG II</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-actrpg-02/</link>
+			<pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-actrpg-02/</guid>
+			<description>
+				
+				Zelda is the best
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Action RPG I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210102-gms2-actrpg-01/</link>
+			<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210102-gms2-actrpg-01/</guid>
+			<description>
+				
+				Zelda is my inspiration
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

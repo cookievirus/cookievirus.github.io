@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>project on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/categories/project/</link>
+		<description>Recent content in project on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Projects : Build my body</title>
+			<link>https://cookievirus.github.io/posts/project-20210103-body/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/project-20210103-body/</guid>
+			<description>
+				
+				How building a better body can change my life? Your Self Worth, A Better Relationship, Your Discipline and Your health.
+...
+				
+			</description>
+		</item>
+		<item>
+			<title>Game Dev &#39;Zomphony Land&#39;</title>
+			<link>https://cookievirus.github.io/posts/gamedev-20210310-washing/</link>
+			<pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/gamedev-20210310-washing/</guid>
+			<description>
+				
+				The musical land of zombie
+				
+			</description>
+		</item>
+		<item>
+			<title>Game Dev &#39;WASHING MANIA&#39;</title>
+			<link>https://cookievirus.github.io/posts/gamedev-20210310-zomphony/</link>
+			<pubDate>Mon, 10 Aug 2009 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/gamedev-20210310-zomphony/</guid>
+			<description>
+				
+				Housewife who ready to fight for house cleaning!
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

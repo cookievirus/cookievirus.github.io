@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/projects/</link>
+		<description>Recent content in Projects on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Projects of 2021</title>
+			<link>https://cookievirus.github.io/projects/project-2021-a1/</link>
+			<pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/projects/project-2021-a1/</guid>
+			<description>
+				
+				This is my progress Report for 2021, Ia’m now one of the indie developers and contractor, on a mission to accelera...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

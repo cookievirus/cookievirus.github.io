@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.79.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta property="og:title" content="GMS2 : Platform Game I">
+	
+	
+	<meta name="author" content="COOKIEVIRUS"><meta name="keywords" content="GameDev"><meta name="description" content="ActRaiser and Castlevania"><meta property="og:title" content="GMS2 : Platform Game I" />
+<meta property="og:description" content="ActRaiser and Castlevania" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cookievirus.github.io/posts/skill-20210104-gms2-platform-01/" />
+<meta property="article:published_time" content="2021-01-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-01-03T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GMS2 : Platform Game I"/>
+<meta name="twitter:description" content="ActRaiser and Castlevania"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>GMS2 : Platform Game I | COOKIEVIRUS</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="https://cookievirus.github.io/">
+		  <img src="/img/jack.jpg" alt="COOKIEVIRUS">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="https://cookievirus.github.io/">COOKIEVIRUS</a></h2></div>
+	<div id="title-description"><p id="subtitle"><a href="https://www.dreamentum.com">Dreamentum</a> The surest way to make your dreams come true is to live them.</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/cookievirus"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://www.twitter.com/cookievirus"><i title="Twitter" class="icons fab fa-twitter"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/posts">All Posts</a></li>
+				
+				<li><a href="/projects">Projects</a></li>
+				
+				<li><a href="/skills">Skills</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/categories">Categories</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">03</span>
+				<span class="rest">JAN 2021</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">GMS2 : Platform Game I</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<hr>
+<p>Here is the tutorial <a href="https://www.udemy.com/course/how-to-make-tile-based-platform-games-with-gamemaker/" target="_blank">udemy Peter Morgan</a></p>
+<h2 id="0890100platform-i">「0/89」「0/100%」[Platform I]</h2>
+<p>Features:</p>
+<p>Learn the basics to build fun and creative platform games, including tricks to add polished and professional features.</p>
+<p>The game you will learn to build here is very slick and professional and is a great platform from which to grow your skills.  This could be the start of your game development career, or just a fun hobby, but either way I look forward to assisting you in your journey.</p>
+<p>Within the course you will learn:</p>
+<ul>
+<li>Finite State Machines (The absolute best way to structure your code)</li>
+<li>Tile Based Collisions (Extremely fast collision method)</li>
+<li>Cool looking psuedo particles (That interact with the environment)</li>
+<li>Lighting Systems (That service multiple objects)</li>
+<li>Scripted enemies and sequences (including enemy spawning)</li>
+<li>Room Fade Transitions, highscore saving, custom tooltips and much more!</li>
+</ul>
+<hr>
+<h5 id="section-a-introduction">Section A: Introduction</h5>
+<ol>
+<li>Introduction</li>
+<li>Rooms</li>
+<li>Moving the Player</li>
+<li>Player Animations</li>
+</ol>
+<h4 id="section-b-finite-state-machines">Section B: Finite State Machines</h4>
+<ol start="5">
+<li>Scripts</li>
+<li>States</li>
+<li>State Arrays</li>
+<li>Attack State</li>
+</ol>
+<h4 id="section-c-collisions">Section C: Collisions</h4>
+<ol start="9">
+<li>Tile Collision Setup</li>
+<li>Horizontal Tile Collisions</li>
+<li>Vertical Tile Collisions</li>
+</ol>
+<h4 id="section-d-jump-and-block">Section D: Jump and Block</h4>
+<ol start="12">
+<li>Jump State</li>
+<li>Block State</li>
+</ol>
+<h5 id="section-e-improving-jump">Section E: Improving Jump</h5>
+<ol start="14">
+<li>Controlled Jumps</li>
+<li>Double Jumps</li>
+<li>Jump Effects</li>
+</ol>
+<h5 id="section-f-player-improvements">Section F: Player Improvements</h5>
+<ol start="17">
+<li>Crouch and Block</li>
+<li>Mask Array</li>
+<li>Controller Support</li>
+</ol>
+<h4 id="section-g-cameras">Section G: Cameras</h4>
+<ol start="20">
+<li>Cameras</li>
+</ol>
+<h4 id="section-h-tiles">Section H: Tiles</h4>
+<ol start="21">
+<li>Laying Tiles</li>
+<li>Layering Tiles</li>
+<li>Animated Tiles</li>
+<li>Parallax Background</li>
+<li>One Way Platforms</li>
+</ol>
+<h4 id="section-i-frog-enemy">Section I: Frog Enemy</h4>
+<ol start="26">
+<li>Frog Enemy</li>
+<li>Frog Idle State</li>
+<li>Frog Jump State</li>
+<li>Frog Jump Start State</li>
+<li>Frog Jump Land State</li>
+<li>Check for Ledges</li>
+<li>Frog Attack State</li>
+<li>Frog Attack Warning</li>
+</ol>
+<h4 id="section-j-player-attack">Section J: Player Attack</h4>
+<ol start="34">
+<li>Player Attack</li>
+<li>Hurting the Enemy</li>
+<li>Optimisations</li>
+<li>Showing Damage</li>
+<li>Sword Effects</li>
+<li>Knockback</li>
+</ol>
+<h4 id="section-k-enemy-attack">Section K: Enemy Attack</h4>
+<ol start="40">
+<li>Enemy Melee</li>
+<li>Hurting State</li>
+<li>Flashing Sprite</li>
+<li>Blocking Damage</li>
+<li>Blocking Knockback</li>
+<li>Improving Knockback</li>
+<li>Enemy Death - Gems</li>
+</ol>
+<h4 id="section-l-drawing-the-gui">Section L: Drawing the GUI</h4>
+<ol start="47">
+<li>Drawing the GUI</li>
+<li>Health Points GUI</li>
+</ol>
+<h4 id="section-m-game-improvments">Section M: Game improvments</h4>
+<ol start="49">
+<li>Spark Effect</li>
+<li>Spark Wall Bounce</li>
+<li>Player Stretching</li>
+<li>Loot</li>
+<li>Player Persistence</li>
+<li>Player Death</li>
+<li>Screen Shake</li>
+</ol>
+<h4 id="section-n-lighting">Section N: Lighting</h4>
+<ol start="56">
+<li>Lighting</li>
+<li>Advanced Lighting</li>
+<li>Gem Lighting</li>
+</ol>
+<h4 id="section-o-traps">Section O: Traps</h4>
+<ol start="59">
+<li>Death Traps</li>
+<li>Arrow Traps</li>
+<li>Arrow Spawner</li>
+<li>Arrow Trap Spark</li>
+<li>Arrow Damage</li>
+</ol>
+<p>Quiz 15: Traps</p>
+<h4 id="section-p-enemy-bug">Section P: Enemy Bug</h4>
+<ol start="64">
+<li>Bug Enemy</li>
+<li>Bug Patrol State</li>
+<li>Bug Chase State</li>
+<li>Bug Extras</li>
+</ol>
+<h4 id="section-q-player-lives">Section Q: Player Lives</h4>
+<ol start="68">
+<li>Player Lives</li>
+<li>Health Drops</li>
+<li>Score GUI</li>
+</ol>
+<h4 id="section-r-room-transitions">Section R: Room Transitions</h4>
+<ol start="71">
+<li>Game Over</li>
+<li>Fade Screen</li>
+<li>Main Menu Tweening</li>
+<li>Room Transitions</li>
+<li>Death Fade</li>
+</ol>
+<h4 id="section-s-highscore">Section S: Highscore</h4>
+<ol start="76">
+<li>Highscore</li>
+</ol>
+<h4 id="section-t-final-room">Section T: Final Room</h4>
+<ol start="77">
+<li>Final Room</li>
+<li>Final Room Details</li>
+<li>Spawning Enemies</li>
+<li>More Spawning Enemies</li>
+<li>Exit Trap</li>
+<li>Escape the Trap</li>
+<li>Game End Screen</li>
+</ol>
+<h4 id="section-u-tooltips">Section U: Tooltips</h4>
+<ol start="84">
+<li>Simple Tooltips</li>
+<li>Advanced Tooltips</li>
+</ol>
+<h4 id="section-v-sound">Section V: Sound</h4>
+<ol start="86">
+<li>Player Sounds</li>
+<li>Game Sounds and Music</li>
+</ol>
+<h4 id="section-w-finalising-the-game">Section W: Finalising the game</h4>
+<ol start="88">
+<li>Releasing the Game</li>
+<li>Bonus Lecture</li>
+</ol>
+<hr>
+
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Categories</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/categories/skill/"> skill </a>
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/gamedev/"> gamedev </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div></div>
+
+  </main>
+<footer>
+	 © Copyright notice <a href="https://cookievirus.com">COOKIEVIRUS.COM</a> | Hugo&rsquo;s theme by <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> 
+	
+	
+	
+</footer>
+
+
+</body>
+</html>

@@ -6,17 +6,17 @@
 		<description>Recent content in Categories on cookievirus.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>© Copyright notice COOKIEVIRUS | Hugo&amp;rsquo;s theme by Vitae</copyright>
-		<lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://cookievirus.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>syntax</title>
-			<link>https://cookievirus.github.io/categories/syntax/</link>
-			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			<title>skill</title>
+			<link>https://cookievirus.github.io/categories/skill/</link>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/categories/syntax/</guid>
+			<guid>https://cookievirus.github.io/categories/skill/</guid>
 			<description>
 				
 				
@@ -24,11 +24,35 @@
 			</description>
 		</item>
 		<item>
-			<title>themes</title>
-			<link>https://cookievirus.github.io/categories/themes/</link>
-			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			<title>life</title>
+			<link>https://cookievirus.github.io/categories/life/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/categories/themes/</guid>
+			<guid>https://cookievirus.github.io/categories/life/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>project</title>
+			<link>https://cookievirus.github.io/categories/project/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/categories/project/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>dream</title>
+			<link>https://cookievirus.github.io/categories/dream/</link>
+			<pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/categories/dream/</guid>
 			<description>
 				
 				

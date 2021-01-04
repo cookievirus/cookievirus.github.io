@@ -6,17 +6,90 @@
 		<description>Recent content on cookievirus.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>© Copyright notice COOKIEVIRUS | Hugo&amp;rsquo;s theme by Vitae</copyright>
-		<lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://cookievirus.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>GMS2 : Farming RPG I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-farm/</link>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-farm/</guid>
+			<description>
+				
+				Stardew Valley inspired by the Harvest Moon
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Platform Game I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-platform-01/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-platform-01/</guid>
+			<description>
+				
+				ActRaiser and Castlevania
+				
+			</description>
+		</item>
+		<item>
+			<title>Projects : Build my body</title>
+			<link>https://cookievirus.github.io/posts/project-20210103-body/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/project-20210103-body/</guid>
+			<description>
+				
+				How building a better body can change my life? Your Self Worth, A Better Relationship, Your Discipline and Your health.
+...
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Action RPG II</title>
+			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-actrpg-02/</link>
+			<pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210104-gms2-actrpg-02/</guid>
+			<description>
+				
+				Zelda is the best
+				
+			</description>
+		</item>
+		<item>
+			<title>Skills to learn 2021</title>
+			<link>https://cookievirus.github.io/skills/skill-2021-a1/</link>
+			<pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/skills/skill-2021-a1/</guid>
+			<description>
+				
+				Set goals around what you want, Once you know what you want, you can set goals in the areas where you want to grow, whet...
+				
+			</description>
+		</item>
+		<item>
+			<title>GMS2 : Action RPG I</title>
+			<link>https://cookievirus.github.io/posts/skill-20210102-gms2-actrpg-01/</link>
+			<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210102-gms2-actrpg-01/</guid>
+			<description>
+				
+				Zelda is my inspiration
+				
+			</description>
+		</item>
+		<item>
 			<title>Hello 2021!, Goodbye 2020!</title>
-			<link>https://cookievirus.github.io/posts/hello-2021/</link>
+			<link>https://cookievirus.github.io/posts/post-20201231-hello2021/</link>
 			<pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/posts/hello-2021/</guid>
+			<guid>https://cookievirus.github.io/posts/post-20201231-hello2021/</guid>
 			<description>
 				
 				A brief description of 2020
@@ -24,47 +97,23 @@
 			</description>
 		</item>
 		<item>
-			<title>Markdown Syntax Guide</title>
-			<link>https://cookievirus.github.io/posts/markdown-syntax/</link>
-			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			<title>Projects of 2021</title>
+			<link>https://cookievirus.github.io/projects/project-2021-a1/</link>
+			<pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/posts/markdown-syntax/</guid>
+			<guid>https://cookievirus.github.io/projects/project-2021-a1/</guid>
 			<description>
 				
-				Sample article showcasing basic Markdown syntax and formatting for HTML elements.
-				
-			</description>
-		</item>
-		<item>
-			<title>Rich Content</title>
-			<link>https://cookievirus.github.io/posts/rich-content/</link>
-			<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://cookievirus.github.io/posts/rich-content/</guid>
-			<description>
-				
-				A brief description of Hugo Shortcodes
-				
-			</description>
-		</item>
-		<item>
-			<title>Placeholder Text</title>
-			<link>https://cookievirus.github.io/posts/placeholder-text/</link>
-			<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://cookievirus.github.io/posts/placeholder-text/</guid>
-			<description>
-				
-				Lorem Ipsum Dolor Si Amet
+				This is my progress Report for 2021, Ia’m now one of the indie developers and contractor, on a mission to accelera...
 				
 			</description>
 		</item>
 		<item>
 			<title>Math Typesetting</title>
-			<link>https://cookievirus.github.io/posts/math-typesetting/</link>
+			<link>https://cookievirus.github.io/posts/post-20190308-math/</link>
 			<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/posts/math-typesetting/</guid>
+			<guid>https://cookievirus.github.io/posts/post-20190308-math/</guid>
 			<description>
 				
 				A brief guide to setup KaTeX
@@ -72,26 +121,38 @@
 			</description>
 		</item>
 		<item>
-			<title>Emoji Support</title>
-			<link>https://cookievirus.github.io/posts/emoji-support/</link>
-			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+			<title>Game Dev &#39;Zomphony Land&#39;</title>
+			<link>https://cookievirus.github.io/posts/gamedev-20210310-washing/</link>
+			<pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/posts/emoji-support/</guid>
+			<guid>https://cookievirus.github.io/posts/gamedev-20210310-washing/</guid>
 			<description>
 				
-				Guide to emoji usage in Hugo
+				The musical land of zombie
 				
 			</description>
 		</item>
 		<item>
-			<title>About Me</title>
-			<link>https://cookievirus.github.io/about/</link>
-			<pubDate>Fri, 03 Feb 1978 00:00:00 +0000</pubDate>
+			<title>Game Dev &#39;WASHING MANIA&#39;</title>
+			<link>https://cookievirus.github.io/posts/gamedev-20210310-zomphony/</link>
+			<pubDate>Mon, 10 Aug 2009 00:00:00 +0000</pubDate>
 			
-			<guid>https://cookievirus.github.io/about/</guid>
+			<guid>https://cookievirus.github.io/posts/gamedev-20210310-zomphony/</guid>
 			<description>
 				
-				Hugo, the world’s fastest framework for building websites
+				Housewife who ready to fight for house cleaning!
+				
+			</description>
+		</item>
+		<item>
+			<title>About Me 2021</title>
+			<link>https://cookievirus.github.io/about/about-2021-a1/</link>
+			<pubDate>Fri, 03 Feb 1978 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/about/about-2021-a1/</guid>
+			<description>
+				
+				me myself and ...
 				
 			</description>
 		</item>

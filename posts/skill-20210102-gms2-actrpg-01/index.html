@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.79.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta property="og:title" content="GMS2 : Action RPG I">
+	
+	
+	<meta name="author" content="COOKIEVIRUS"><meta name="keywords" content="GameDev"><meta name="description" content="Zelda is my inspiration"><meta property="og:title" content="GMS2 : Action RPG I" />
+<meta property="og:description" content="Zelda is my inspiration" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cookievirus.github.io/posts/skill-20210102-gms2-actrpg-01/" />
+<meta property="article:published_time" content="2021-01-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-01-01T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GMS2 : Action RPG I"/>
+<meta name="twitter:description" content="Zelda is my inspiration"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>GMS2 : Action RPG I | COOKIEVIRUS</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="https://cookievirus.github.io/">
+		  <img src="/img/jack.jpg" alt="COOKIEVIRUS">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="https://cookievirus.github.io/">COOKIEVIRUS</a></h2></div>
+	<div id="title-description"><p id="subtitle"><a href="https://www.dreamentum.com">Dreamentum</a> The surest way to make your dreams come true is to live them.</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/cookievirus"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://www.twitter.com/cookievirus"><i title="Twitter" class="icons fab fa-twitter"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/posts">All Posts</a></li>
+				
+				<li><a href="/projects">Projects</a></li>
+				
+				<li><a href="/skills">Skills</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/categories">Categories</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">01</span>
+				<span class="rest">JAN 2021</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">GMS2 : Action RPG I</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<hr>
+<p>Here is the tutorial <a href="https://heartbeast-gamedev-school.teachable.com/" target="_blank">WWW heartbeast</a></p>
+<h2 id="12638100action-rpg-ii">「1/26」「3.8/100%」[Action RPG II]</h2>
+<ol>
+<li>[2021-01-02] <del>Introduction</del> 3.8%</li>
+<li>Player Movement
+<ul>
+<li>A Moving Character</li>
+<li>Collision Checking</li>
+<li>Collision Masks</li>
+</ul>
+</li>
+<li>Sprites
+<ul>
+<li>Sprite Index and Image Speed</li>
+<li>Sprite Scaling</li>
+</ul>
+</li>
+<li>Variables and Arrays
+<ul>
+<li>Variables</li>
+<li>1D Arrays</li>
+<li>2D Arrays</li>
+<li>Enums</li>
+<li>Sprite Array Lookup Table</li>
+</ul>
+</li>
+<li>Improved Movement with Scripts
+<ul>
+<li>Axis Input</li>
+<li>Importing Scripts</li>
+<li>Scripts</li>
+<li>Movement Using Scripts</li>
+</ul>
+</li>
+<li>Tilesets
+<ul>
+<li>Autotiling</li>
+<li>Tile Layers</li>
+</ul>
+</li>
+<li>Finite State Machines
+<ul>
+<li>Finite State Machines and Attacking</li>
+<li>Animation Scripts</li>
+<li>Roll State</li>
+</ul>
+</li>
+<li>Cutting Grass
+<ul>
+<li>Grass and Basic Depth</li>
+<li>Hitboxes</li>
+</ul>
+</li>
+<li>Enemies
+<ul>
+<li>Enemy Parent</li>
+<li>Porcupine</li>
+<li>Porcupine Attack</li>
+</ul>
+</li>
+<li>Hitbox Targets and Hurtboxes
+<ul>
+<li>Hurtbox Scripts</li>
+<li>Finishing Up Hurtboxes</li>
+</ul>
+</li>
+<li>Game and Input Objects
+<ul>
+<li>Game Object</li>
+<li>Input Object</li>
+</ul>
+</li>
+<li>Effects
+<ul>
+<li>Effect Object</li>
+<li>Grass Effect</li>
+<li>Hit and Death Effect</li>
+</ul>
+</li>
+<li>Getting Hit
+<ul>
+<li>Player Hit Logic and States</li>
+<li>Flashing When Hit</li>
+</ul>
+</li>
+<li>Camera Object
+<ul>
+<li>Camera Object</li>
+<li>Smooth Camera</li>
+<li>Jitter Free Camera</li>
+</ul>
+</li>
+<li>Adding Sounds and Music
+<ul>
+<li>Sounds</li>
+<li>Music</li>
+</ul>
+</li>
+<li>New Levels
+<ul>
+<li>Room Inheritance</li>
+<li>Positions and Doors</li>
+</ul>
+</li>
+<li>UI and Collectibles
+<ul>
+<li>Pickup Object and Gems</li>
+<li>Hearts</li>
+<li>UI</li>
+</ul>
+</li>
+<li>Pausing
+<ul>
+<li>Pausing</li>
+<li>Drawing the Game During Pause</li>
+<li>Keeping Objects Active during Pause</li>
+</ul>
+</li>
+<li>Inventory
+<ul>
+<li>Creating the Inventory</li>
+<li>Creating Inventory Items</li>
+<li>Drawing the Inventory</li>
+<li>Navigating the Inventory and Equipping Items</li>
+<li>Bomb State</li>
+</ul>
+</li>
+<li>Minor Adjustments
+<ul>
+<li>Clamping the View</li>
+<li>Adding Stamina</li>
+<li>Stamina UI</li>
+</ul>
+</li>
+<li>More Enemies
+<ul>
+<li>Bat Enemy</li>
+<li>Hornet Enemy</li>
+<li>Soft Collisions</li>
+</ul>
+</li>
+<li>Movement Explained
+<ul>
+<li>Movement Scripts Part 1</li>
+<li>Movement Scripts Part 2</li>
+</ul>
+</li>
+<li>Game State
+<ul>
+<li>Remembering Destroyed Objects</li>
+<li>Title Screen</li>
+</ul>
+</li>
+<li>Saving and Loading
+<ul>
+<li>Basic Saving and Loading</li>
+<li>Saving the Inventory</li>
+<li>Saving Destroyed Objects and Active Items</li>
+</ul>
+</li>
+<li>Sword Stand and Bow
+<ul>
+<li>Sword in the Stone</li>
+<li>Basic Bow</li>
+<li>Bow Polish</li>
+<li>Bow Polish Part 2</li>
+</ul>
+</li>
+<li>Item Management
+<ul>
+<li>Items with an Amount</li>
+</ul>
+</li>
+</ol>
+<hr>
+
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Categories</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/categories/skill/"> skill </a>
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/gamedev/"> gamedev </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div></div>
+
+  </main>
+<footer>
+	 © Copyright notice <a href="https://cookievirus.com">COOKIEVIRUS.COM</a> | Hugo&rsquo;s theme by <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> 
+	
+	
+	
+</footer>
+
+
+</body>
+</html>

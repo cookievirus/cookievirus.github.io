@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>life on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/categories/life/</link>
+		<description>Recent content in life on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Projects : Build my body</title>
+			<link>https://cookievirus.github.io/posts/project-20210103-body/</link>
+			<pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/project-20210103-body/</guid>
+			<description>
+				
+				How building a better body can change my life? Your Self Worth, A Better Relationship, Your Discipline and Your health.
+...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
