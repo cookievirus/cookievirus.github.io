@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pixelart on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/tags/pixelart/</link>
+		<description>Recent content in Pixelart on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/tags/pixelart/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>PIXEL : Aseprite Guide for Beginners</title>
+			<link>https://cookievirus.github.io/posts/skill-20210111-pixel-beginner/</link>
+			<pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210111-pixel-beginner/</guid>
+			<description>
+				
+				Aseprite Guide for Beginners (Pixelart Tutorial)
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

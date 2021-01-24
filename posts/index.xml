@@ -7,10 +7,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
-		<lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://cookievirus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>HTML/CSS Margin VS Padding</title>
+			<link>https://cookievirus.github.io/posts/code-20210122-css-margin-padding/</link>
+			<pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/code-20210122-css-margin-padding/</guid>
+			<description>
+				
+				Margin กับ Padding ต่างกันอย่างไร
+				
+			</description>
+		</item>
+		<item>
+			<title>PIXEL : Aseprite Guide for Beginners</title>
+			<link>https://cookievirus.github.io/posts/skill-20210111-pixel-beginner/</link>
+			<pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/skill-20210111-pixel-beginner/</guid>
+			<description>
+				
+				Aseprite Guide for Beginners (Pixelart Tutorial)
+				
+			</description>
+		</item>
 		<item>
 			<title>GMS2 : Farming RPG I</title>
 			<link>https://cookievirus.github.io/posts/skill-20210104-gms2-farm/</link>
