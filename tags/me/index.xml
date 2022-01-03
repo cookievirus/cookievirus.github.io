@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>me on COOKIEVIRUS</title>
+		<link>https://cookievirus.github.io/tags/me/</link>
+		<description>Recent content in me on cookievirus.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
+		<lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://cookievirus.github.io/tags/me/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hello 2022!, Goodbye 2021!</title>
+			<link>https://cookievirus.github.io/posts/post-20220101-hello2022/</link>
+			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/posts/post-20220101-hello2022/</guid>
+			<description>
+				
+				A brief description of 2021
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

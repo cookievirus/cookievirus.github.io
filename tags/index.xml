@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice COOKIEVIRUS.COM | Hugo&amp;rsquo;s theme by Vitae</copyright>
-		<lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://cookievirus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>me</title>
+			<link>https://cookievirus.github.io/tags/me/</link>
+			<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+			
+			<guid>https://cookievirus.github.io/tags/me/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		<item>
 			<title>Pixelart</title>
 			<link>https://cookievirus.github.io/tags/pixelart/</link>
